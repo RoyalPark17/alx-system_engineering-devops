@@ -1,2 +1,2 @@
-#!/bim/bash
-chmod -h vincent:staff _hello
+#!/bin/bash
+chmod vincent:staff *
